@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Koksar",
+    "location": { "lat": 32.4439, "lon": 77.0337 }
+  },
+  {
+    "name": "Jaipur",
+    "location": { "lat": 26.9124, "lon": 75.7873 }
+  }
+]
